@@ -37,18 +37,7 @@
 								<h3>Daftar</h3>
 							</a>
 	    				</center>
-	    			</div>
-					
-					<div class="col-md-6 col-lg-5 col-sm-12 note">
-	    				<center>
-	    					<a href="daftar_akun.php">
-		    					<img src="assets/img/Register.jpg" alt="Pendaftaran Siswa Baru">
-								<h3>Daftar</h3>
-							</a>
-	    				</center>
 	    			</div>	
-					
-				
 	    		</div>
 	    	</div>
 	    </div>
