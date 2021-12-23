@@ -31,6 +31,29 @@
 	    				</center>
 	    			</div>
 
+					<div class="col-md-6 col-lg-5 col-sm-12 student">
+	    				<center>
+	    					<a href="login-admin.php">
+		    					<img src="assets/img/admin.jpg" alt="Login">
+								<h3>Login Admin</h3>
+							</a>
+	    				</center>
+	    			</div><div class="col-md-6 col-lg-5 col-sm-12 student">
+	    				<center>
+	    					<a href="login-admin.php">
+		    					<img src="assets/img/admin.jpg" alt="Login">
+								<h3>Login Admin</h3>
+							</a>
+	    				</center>
+	    			</div><div class="col-md-6 col-lg-5 col-sm-12 student">
+	    				<center>
+	    					<a href="login-admin.php">
+		    					<img src="assets/img/admin.jpg" alt="Login">
+								<h3>Login Admin</h3>
+							</a>
+	    				</center>
+	    			</div>
+
 	    			<div class="col-md-6 col-lg-5 col-sm-12 student">
 	    				<center>
 	    					<a href="login-peserta.php">

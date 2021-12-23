@@ -110,6 +110,27 @@ if (isset($_POST['submit'])) {
 	            </div>
 	            <a href="login-admin-peserta.php" class="text-center new-account">Kembali </a>
 	        </div>
+			<form class="form-signin" method="post" action="">
+		                <input type="text" class="form-control" name="email" placeholder="Email" required autofocus><br>
+		                <input type="password" class="form-control" name="password" placeholder="Password" required>
+		                <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">
+		                    Login</button>
+	                </form><form class="form-signin" method="post" action="">
+		                <input type="text" class="form-control" name="email" placeholder="Email" required autofocus><br>
+		                <input type="password" class="form-control" name="password" placeholder="Password" required>
+		                <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">
+		                    Login</button>
+	                </form><form class="form-signin" method="post" action="">
+		                <input type="text" class="form-control" name="email" placeholder="Email" required autofocus><br>
+		                <input type="password" class="form-control" name="password" placeholder="Password" required>
+		                <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">
+		                    Login</button>
+	                </form><form class="form-signin" method="post" action="">
+		                <input type="text" class="form-control" name="email" placeholder="Email" required autofocus><br>
+		                <input type="password" class="form-control" name="password" placeholder="Password" required>
+		                <button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">
+		                    Login</button>
+	                </form>
 	    </div>
 	</div>
 </body>
