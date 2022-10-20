@@ -160,11 +160,11 @@ switch ($getPage) {
                     </li>
                     <li class="<?php $_SESSION['active'] == 5 ? print("active") : print("") ?>">
                         <a href="index.php?page=8">
-                            <i class="material-icons">content_paste</i>
+                            <i class="material-icons">delete</i>
                             <p>Delete Data</p>
                         </a>
                     </li>
-                    <li class="<?php $_SESSION['active'] == 6 ? print("active") : print("") ?>">
+                    <li class="<?php $_SESSION['active'] == 4 ? print("active") : print("") ?>">
                         <a href="index.php?page=7">
                             <i class="material-icons">library_books</i>
                             <p>Status Pendaftaran</p>
