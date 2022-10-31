@@ -8,28 +8,28 @@
             <div class="card-content">
                 <form action="" method="post" enctype="multipart/form-data">
                     <div class="row">
-                        
+
 
                         <div class="form-group floating-label" style="margin-left: 20px;">
                             <label class="col-sm-12">Akte Kelahiran : </label>
                             <label class="btn btn-primary" for="my-file-selector">
-                                <a href="index.php?page=11" style = "color : white;"><i></i> Delete Akte</a>   
-                            <span class='label label-info' id="upload-file-info"></span>
+                                <a href="index.php?page=11" style="color : white;"><i></i> Delete Akte</a>
+                                <span class='label label-info' id="upload-file-info"></span>
                         </div>
-                    
+
                     </div>
 
                     <div class="row">
                         <div class="form-group floating-label" style="margin-left: 20px;">
                             <label class="col-sm-12">Kartu Keluarga : </label>
                             <label class="btn btn-primary" for="my-file-selector2">
-                                <a href="index.php?page=12" style = "color : white;"><i></i> Delete Kartu Keluarga</a>
+                                <a href="index.php?page=12" style="color : white;"><i></i> Delete Kartu Keluarga</a>
                             </label>
                             <span class='label label-info' id="upload-file-info2"></span>
                         </div>
                     </div>
-                       
-                    <hr> 
+
+                    <hr>
                 </form>
             </div>
         </div>

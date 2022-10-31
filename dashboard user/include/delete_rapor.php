@@ -8,27 +8,27 @@
             <div class="card-content">
                 <form action="" method="post" enctype="multipart/form-data">
                     <div class="row">
-                        
+
 
                         <div class="form-group floating-label" style="margin-left: 20px;">
                             <label class="col-sm-12">Rapor : </label>
                             <label class="btn btn-primary" for="my-file-selector">
-                                <a href="index.php?page=13" style = "color : white;"><i></i> Delete Rapor</a>   
-                            <span class='label label-info' id="upload-file-info"></span>
+                                <a href="index.php?page=13" style="color : white;"><i></i> Delete Rapor</a>
+                                <span class='label label-info' id="upload-file-info"></span>
                         </div>
-                    
+
                     </div>
 
                     <div class="row">
                         <div class="form-group floating-label" style="margin-left: 20px;">
                             <label class="col-sm-12">Piagam Prestasi : </label>
                             <label class="btn btn-primary" for="my-file-selector2">
-                                <a href="index.php?page=14" style = "color : white;"><i></i> Delete Piagam Prestasi</a>
+                                <a href="index.php?page=14" style="color : white;"><i></i> Delete Piagam Prestasi</a>
                             </label>
                             <span class='label label-info' id="upload-file-info2"></span>
                         </div>
-                       
-                    <hr> 
+
+                        <hr>
                 </form>
             </div>
         </div>

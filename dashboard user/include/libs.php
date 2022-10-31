@@ -9,5 +9,3 @@
 <link href="../assets/css/demo.css" rel="stylesheet" />
 <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300|Material+Icons' rel='stylesheet' type='text/css'>
-
-
